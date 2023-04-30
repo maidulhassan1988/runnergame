@@ -30,9 +30,7 @@ while True:
 	screen.blit(snail_surface, (snail_x_pos,270))
 
 	pygame.display.update()	
-	clock.tick(60)
+	clock.tick(1)
 
 
-
-# mango
-
+# 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
