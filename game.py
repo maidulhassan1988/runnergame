@@ -33,4 +33,3 @@ while True:
 	clock.tick(1)
 
 
-# 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
