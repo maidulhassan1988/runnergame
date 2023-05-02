@@ -18,6 +18,7 @@ snail_x_pos = 600
 
 player_surface = pygame.image.load('graphics/player/player1.png').convert_alpha()
 
+# this thing is called a event loop
 while True:
 	for event in pygame.event.get():
 		if event.type == pygame.QUIT:
